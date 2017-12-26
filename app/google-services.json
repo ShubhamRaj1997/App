@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302385575604",
+    "firebase_url": "https://first-427b9.firebaseio.com",
+    "project_id": "first-427b9",
+    "storage_bucket": "first-427b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302385575604:android:4e33c06aeeeb21d8",
+        "android_client_info": {
+          "package_name": "com.example.shubhammrajput.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302385575604-tlqh8q2kveq3rgl8ve68u7ee6r5pkn76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubhammrajput.app",
+            "certificate_hash": "6b9f101850eb74c7520d01f5d963aad1ba34a3b7"
+          }
+        },
+        {
+          "client_id": "302385575604-anhgn89fkps0tspfcf4jrgdbrri2c1mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf3FfYlHyYC6_GbGTfK0U8hyC4M7H50N4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302385575604-anhgn89fkps0tspfcf4jrgdbrri2c1mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
